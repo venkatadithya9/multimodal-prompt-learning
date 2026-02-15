@@ -1,0 +1,3 @@
+DATASET:
+  NAME: "MedMNIST"
+  ROOT: /home/harsha/ConceptLoRA/Concept_LoRA/data
