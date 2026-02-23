@@ -3,7 +3,7 @@
 #cd ../..
 
 # custom config
-DATA="/path/to/dataset/folder"
+DATA="/home/harsha/ConceptLoRA/Concept_LoRA/data"
 TRAINER=MaPLe
 
 DATASET=$1
